@@ -10,7 +10,7 @@
 <h3 align="center">Tech stack:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,docker,cpp,postgres,spring,python,js,html,css,react&perline=5" style="width: 400px; height: 600;" />
+    <img src="https://skillicons.dev/icons?i=java,docker,cpp,postgres,spring,python&perline=5" style="width: 400px; height: 600;" />
   </a>
 </p>
 
