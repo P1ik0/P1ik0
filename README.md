@@ -21,8 +21,6 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=P1ik0&theme=omni" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=P1ik0&theme=omni" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=P1ik0&theme=omni&utcOffset=8" />
-  <a href="https://git.io/streak-stats">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=P1ik0&theme=radical&border_radius=5" />
   </a>
 </p>
 
